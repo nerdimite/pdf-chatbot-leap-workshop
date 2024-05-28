@@ -1,0 +1,4 @@
+chromadb
+llama-index==0.10.33
+llama-index-vector-stores-chroma
+llama-index-llms-groq
